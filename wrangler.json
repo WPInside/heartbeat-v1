@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "heartbeat-v1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "998dce90-2cc9-4198-88d9-7e0351ba45df",
+      "database_name": "heartbeat_v1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
